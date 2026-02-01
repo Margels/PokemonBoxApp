@@ -1,7 +1,5 @@
 # PokemonBoxApp
 
-Project for Satispay.
-
 ## Requirements
 
 - Develop an iOS application using UIKit that given a database of pokemon (provided by https://pokeapi.co) allows the user to browse it as a list and to search pokemon by name (ex: "Bulbasaur").
